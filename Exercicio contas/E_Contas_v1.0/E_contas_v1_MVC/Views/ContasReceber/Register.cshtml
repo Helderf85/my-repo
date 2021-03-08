@@ -1,0 +1,36 @@
+﻿@model ContasReceberModel
+<h1>Create new Account</h1>
+
+<section>
+    <form asp-action="Register" method="post">
+        <div>
+            <label>Data Vencimento</label>
+            <input type="date"
+                   maxlength="80"
+                   id="TxtDataVencimento"
+                   required
+                   asp-for="DataVencimento" />
+        </div>
+
+        <div>
+            <label>Valor</label>
+            <input type="number"
+                   maxlength=" 80"
+                   id="TxtMorada"
+                   required
+                   asp-for="Valor" />
+        </div>
+        <div>
+            <label>ClienteId</label>
+            <input type="number"
+                   maxlength=" 80"
+                   id="TxtCliente"
+                   required
+                   asp-for="ClienteId" />
+        </div>
+
+        <div>
+            <button type="submit" id="btnRegister">Register</button>
+        </div>
+    </form>
+</section>

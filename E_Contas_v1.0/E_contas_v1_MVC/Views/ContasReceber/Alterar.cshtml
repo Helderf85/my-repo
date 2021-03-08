@@ -1,0 +1,83 @@
+﻿@model ContasReceberModel
+<h1>Create new Account</h1>
+
+<section>
+    <form asp-action="Alterar" method="post">
+        <div>
+            <label>FaturaId</label>
+            <input type="number"
+                   readonly
+                   maxlength=" 80"
+                   id="TxtFatura"
+                   required
+                   asp-for="FaturaId" />
+
+        </div>
+
+
+        <div>
+            <label>Data Vencimento</label>
+            <input type="date"
+                   readonly
+                   maxlength="80"
+                   id="TxtDataVencimento"
+                   required
+                   asp-for="DataVencimento" />
+        </div>
+
+        <div>
+            <label>Valor</label>
+            <input type="number"
+                   readonly
+                   maxlength=" 80"
+                   id="TxtMorada"
+                   required
+                   asp-for="Valor" />
+        </div>
+        <div>
+            <label>ClienteId</label>
+            <input type="number"
+                   readonly
+                   maxlength=" 80"
+                   id="TxtCliente"
+                   required
+                   asp-for="ClienteId" />
+
+        </div>
+
+        <div>
+            <label>DataPagamento</label>
+            <input type="date"
+                   readonly
+                   maxlength=" 80"
+                   id="TxtDataPagamento"
+                   required
+                   asp-for="DataPagamento" />
+
+        </div>
+
+        <div>
+            <label>Valor que é para pagar</label>
+            <input type="number"
+                   maxlength=" 80"
+                   id="TxtValorPago"
+                   required
+                   asp-for="ValorPago" />
+
+        </div>
+
+        <div>
+            <label>Valor ainda a receber</label>
+            <input type="number"
+                   maxlength=" 80"
+                   id="TxtValorReceber"
+                   required
+                   asp-for="ValorReceber" />
+
+        </div>
+
+        <div>
+            <button type="submit" id="btnRegister">Register</button>
+        </div>
+    </form>
+</section>

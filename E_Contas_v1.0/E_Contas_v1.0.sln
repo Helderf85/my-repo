@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "E_Contas_v1_API", "E_Contas_v1.0_API\E_Contas_v1_API.csproj", "{00DA0BFE-7303-4EAD-8422-BF2C7C798F90}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "E_contas_v1_MVC", "E_contas_v1_MVC\E_contas_v1_MVC.csproj", "{6AA1EFCC-039E-4C16-8C1A-AD7A5B315E7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00DA0BFE-7303-4EAD-8422-BF2C7C798F90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00DA0BFE-7303-4EAD-8422-BF2C7C798F90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00DA0BFE-7303-4EAD-8422-BF2C7C798F90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00DA0BFE-7303-4EAD-8422-BF2C7C798F90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AA1EFCC-039E-4C16-8C1A-AD7A5B315E7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AA1EFCC-039E-4C16-8C1A-AD7A5B315E7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AA1EFCC-039E-4C16-8C1A-AD7A5B315E7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AA1EFCC-039E-4C16-8C1A-AD7A5B315E7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {701A1CC9-A05D-404B-8395-B8CE16820B8B}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,55 @@
+﻿@model FornecedorModel
+<h1>Alter Account</h1>
+
+<section>
+    <form asp-action="Alterar" method="post">
+
+        <div>
+            <label>ID</label>
+            <input type="text"
+                   maxlength="80"
+                   id="TxtId"
+                   required
+                   asp-for="FornecedorId" />
+        </div>
+
+        <div>
+            <label>Nome</label>
+            <input type="text"
+                   maxlength="80"
+                   id="TxtName"
+                   required
+                   asp-for="Nome" />
+        </div>
+
+        <div>
+            <label>Morada</label>
+            <input type="text"
+                   maxlength=" 80"
+                   id="TxtMorada"
+                   required
+                   asp-for="Morada" />
+        </div>
+        <div>
+            <label>Telefone</label>
+            <input type="tel"
+                   maxlength=" 9"
+                   id="TxtTelefone"
+                   required
+                   asp-for="Telefone" />
+        </div>
+        <div>
+            <label>Email</label>
+            <input type="email"
+                   maxlength=" 80"
+                   id="TxtEmail"
+                   required
+                   asp-for="Email" />
+        </div>
+
+        <div>
+            <button type="submit" id="btnRegistar">Alterar</button>
+        </div>
+    </form>
+</section>
+

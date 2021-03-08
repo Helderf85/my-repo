@@ -1,0 +1,7 @@
+C:\Users\xdlta14\Dropbox\Academia de Codigo\Em casa\08_2019\ACD_2019-06-PFP\E07_Rock, Paper, or Scissors_v1\bin\Debug\E07_Rock, Paper, or Scissors_v1.exe.config
+C:\Users\xdlta14\Dropbox\Academia de Codigo\Em casa\08_2019\ACD_2019-06-PFP\E07_Rock, Paper, or Scissors_v1\bin\Debug\E07_Rock, Paper, or Scissors_v1.exe
+C:\Users\xdlta14\Dropbox\Academia de Codigo\Em casa\08_2019\ACD_2019-06-PFP\E07_Rock, Paper, or Scissors_v1\bin\Debug\E07_Rock, Paper, or Scissors_v1.pdb
+C:\Users\xdlta14\Dropbox\Academia de Codigo\Em casa\08_2019\ACD_2019-06-PFP\E07_Rock, Paper, or Scissors_v1\obj\Debug\E07_Rock, Paper, or Scissors_v1.csprojAssemblyReference.cache
+C:\Users\xdlta14\Dropbox\Academia de Codigo\Em casa\08_2019\ACD_2019-06-PFP\E07_Rock, Paper, or Scissors_v1\obj\Debug\E07_Rock, Paper, or Scissors_v1.csproj.CoreCompileInputs.cache
+C:\Users\xdlta14\Dropbox\Academia de Codigo\Em casa\08_2019\ACD_2019-06-PFP\E07_Rock, Paper, or Scissors_v1\obj\Debug\E07_Rock, Paper, or Scissors_v1.exe
+C:\Users\xdlta14\Dropbox\Academia de Codigo\Em casa\08_2019\ACD_2019-06-PFP\E07_Rock, Paper, or Scissors_v1\obj\Debug\E07_Rock, Paper, or Scissors_v1.pdb
