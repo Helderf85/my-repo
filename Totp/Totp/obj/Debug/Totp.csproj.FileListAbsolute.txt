@@ -1,0 +1,7 @@
+C:\Users\helde\OneDrive\Área de Trabalho\ToTP\TOTP\Totp\Totp\bin\Debug\Totp.exe.config
+C:\Users\helde\OneDrive\Área de Trabalho\ToTP\TOTP\Totp\Totp\bin\Debug\Totp.exe
+C:\Users\helde\OneDrive\Área de Trabalho\ToTP\TOTP\Totp\Totp\bin\Debug\Totp.pdb
+C:\Users\helde\OneDrive\Área de Trabalho\ToTP\TOTP\Totp\Totp\obj\Debug\Totp.csprojAssemblyReference.cache
+C:\Users\helde\OneDrive\Área de Trabalho\ToTP\TOTP\Totp\Totp\obj\Debug\Totp.csproj.CoreCompileInputs.cache
+C:\Users\helde\OneDrive\Área de Trabalho\ToTP\TOTP\Totp\Totp\obj\Debug\Totp.exe
+C:\Users\helde\OneDrive\Área de Trabalho\ToTP\TOTP\Totp\Totp\obj\Debug\Totp.pdb
